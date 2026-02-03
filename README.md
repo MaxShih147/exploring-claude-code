@@ -65,5 +65,3 @@
 
 本 repository 著重於學習與教學用途，  
 所有步驟皆以實際操作為基礎整理，並非官方文件。
-
-# Exploring Claude Code
