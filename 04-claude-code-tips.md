@@ -72,7 +72,7 @@ CLAUDE.md 是 Claude Code 的「專案記憶檔」。
 
 ---
 
-## 五、CLAUDE.md 的三個層級
+## 五、CLAUDE.md 的三個層級 (細節待補...)
 
 ### 1）專案層級
 
