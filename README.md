@@ -63,7 +63,13 @@
 
 ---
 
+## 參考資料
+
+- [Vibe Coding CLI 頂級開發 - Claude Code 前瞻菁英育成手冊](https://www.kobo.com/ph/en/ebook/vibe-coding-cli-claude-code?srsltid=AfmBOoqM58PoVSXaejYr50D-XAzS1z3cnIarKl_Jq-2HUHHMjIan9dWH)
+
+---
+
 ## 聲明
 
-本 repository 著重於學習與教學用途，  
+本 repository 著重於學習與教學用途，
 所有步驟皆以實際操作為基礎整理，並非官方文件。
