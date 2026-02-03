@@ -1,5 +1,7 @@
 # Exploring Claude Code
 
+![Exploring Claude Code](assets/readme_main_image.png)
+
 本 repository 是一份 **從全新 macOS 使用者帳號開始**，  
 一步一步探索並建立 **Claude Code 開發環境** 的實作紀錄與教學素材。
 
